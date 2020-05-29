@@ -1,5 +1,6 @@
 # My_Knowledge_Base
 
+This folder consist of all the information that I have learnt to gain expertise in Machine Learning
 
 ## Python Basics
 1.Variables and Data Types
